@@ -3,6 +3,7 @@ This report and computational experiments are written and carried out by Lilian 
 may need to set up a virtual environment first:
     python3 -m venv path/to/venv
     source path/to/venv/bin/activate
+install numpy, scipy, scikit-learn, matplotlib, pandas
 
 data:
 - adrenal_medulla_subset_processed.csv used for real data
